@@ -1,0 +1,16 @@
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\bin\Debug\net5.0\GameConsoleBalanceado.exe
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\bin\Debug\net5.0\GameConsoleBalanceado.deps.json
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\bin\Debug\net5.0\GameConsoleBalanceado.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\bin\Debug\net5.0\GameConsoleBalanceado.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\bin\Debug\net5.0\GameConsoleBalanceado.dll
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\bin\Debug\net5.0\ref\GameConsoleBalanceado.dll
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\bin\Debug\net5.0\GameConsoleBalanceado.pdb
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\obj\Debug\net5.0\GameConsoleBalanceado.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\obj\Debug\net5.0\GameConsoleBalanceado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\obj\Debug\net5.0\GameConsoleBalanceado.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\obj\Debug\net5.0\GameConsoleBalanceado.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\obj\Debug\net5.0\GameConsoleBalanceado.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\obj\Debug\net5.0\GameConsoleBalanceado.dll
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\obj\Debug\net5.0\ref\GameConsoleBalanceado.dll
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\obj\Debug\net5.0\GameConsoleBalanceado.pdb
+C:\Users\Jhonatan\Desktop\GameConsoleBalanceado\obj\Debug\net5.0\GameConsoleBalanceado.genruntimeconfig.cache

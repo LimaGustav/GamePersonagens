@@ -1,0 +1,27 @@
+ataque - ataque -- Os dois tomam dano
+ataque - defesa -- Toma dano do ataque - defesa
+ataque - esquivo -- Leve o dano do personagem que esquivou
+defesa - ataque -- Toma dano do ataque - defesa
+defesa - defesa -- Acontece nada
+defesa - esquivo -- Quem ta se esquivando do nada depois é atacado
+esquivo - ataque -- Leva o dano do personagem que esquivou
+esquivo - defesa --Quem ta se esquivando do nada depois é atacado
+esquivo - esquivo -- Acontece nada
+
+Ataque ganha defesa
+defesa ganha esquivo
+esquivo ganha ataque
+
+--REGRAS DO JOGO--
+Você vai escolher um personagem e lutará contra um adversário
+Tera 3 opções de ação sendo elas: Atacar, Defender ou Esquivar
+
+Caso escolher ATACAR e o adversário atacar, ambos receberão dano de ataque
+Caso escolher ATACAR e o adversário defender, seu dano de ataque do round sera subtraido pelos pontos de defesa dele
+Caso escolher ATACAR e o adversário esquivar, você sofrerá o dano baseado nos pontos de destreza do seu adversário
+Caso escolher DEFENDER e o seu adversário atacar, você sofrerá o dano de ataque subtraido pelos seus pontos de defesa
+Caso escolher DEFENDER e o seu adversário defender, nenhum dos jogadores sofrem dano
+Caso escolher DEFENDER e o seu adversário esquivar, seu adversário sofrerá o dano dos seus pontos de ataque subtraido pelos pontos de defesa dele
+Caso escolher ESQUIVAR e seu adversário atacar, seu adversário sofrerá o dano baseado nos seus pontos de destreza
+Caso escolher ESQUIVAR e seu adversário defender, você sofrerá o dano dos pontos de ataque do seu adversário subtraidos pelos seus pontos de defesa
+Caso escolher ESQUIVAR e seu adversário esquivar, nenum dos jogadores sofrem dano
